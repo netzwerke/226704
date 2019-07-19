@@ -1,0 +1,9 @@
+## Checkliste Veranstaltung ##
+
+# Konzept
+[ ] 
+
+# Zielgruppe
+[ ] 
+
+...
