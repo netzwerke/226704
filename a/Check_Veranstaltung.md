@@ -1,9 +1,14 @@
-## Checkliste Veranstaltung ##
+# Checkliste Veranstaltung
 
-# Konzept
-[ ] 
+## Planung & Vorlauf
 
-# Zielgruppe
-[ ] 
+**Konzept**
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+**Zielgruppe**
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
 
 ...
