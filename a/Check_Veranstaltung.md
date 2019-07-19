@@ -3,8 +3,9 @@
 ## Planung & Vorlauf
 
 **Konzept**
-- [x] This is a complete item
-- [ ] This is an incomplete item
+- [ ] Kernidee entwickeln
+- [ ] Zielgruppe
+- [ ] Zielgruppe
 
 **Zielgruppe**
 - [x] This is a complete item
