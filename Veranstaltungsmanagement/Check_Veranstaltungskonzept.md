@@ -1,6 +1,6 @@
-# Checkliste Veranstaltung
+# Checkliste Veranstaltungskonzept 
 
-## Planung & Vorlauf
+## Konzept & Planung
 
 **Konzept**
 - [ ] Kernidee entwickeln
