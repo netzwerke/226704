@@ -1,4 +1,4 @@
-# Vorlage Rederentenliste
+# Vorlage Referentenliste
 
 | Name  | Unternehmen | E-Mail | Telefon | Vortragstitelt | Inhalt Zusammenfassung | Zeitslot | Technikinfos | Foto | Verantwortlich | Sonstiges |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
