@@ -1,6 +1,10 @@
-| Name der Veranstaltung |        |      |           |        |          |           |
+**Name der Veranstaltung**
+
+***Einkaufsliste***
+
+| Was?   |   Anzahl     |  Wer?    |  Bis wann?        |  Status     |       Lagerort      |       Anmerkung    |
 |------------------------|--------|------|-----------|--------|----------|-----------|
-| Was?                   | Anzahl | Wer? | Bis wann? | Status | Lagerort | Anmerkung |
+|   |   |   |          
 |   |   |   |
 |   |   |   |
 |   |   |   |
