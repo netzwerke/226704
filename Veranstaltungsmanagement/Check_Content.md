@@ -12,7 +12,7 @@
 - [ ] Referenten briefen
 - [ ] Programm erstellen
 
-**Bewerbung *
+**Bewerbung**
 - [ ] Website auf Wordpress erstellen
 - [ ] Texte für Wordpress / Eventbrite erstellen
 - [ ] ggfs. Texte für Post des Marketingteams
