@@ -35,4 +35,3 @@ Bei Zusage von Sponsoren:
 Nach der Veranstaltung:
 - [ ] Dankesmail ggfs. mit Fotos vom Produkt des Sponsor auf der Veranstaltung
 
-...
